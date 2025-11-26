@@ -63,4 +63,9 @@ plt.show()
 
 ## Tabular Column
 
+![WhatsApp Image 2025-11-26 at 3 47 23 PM (1)](https://github.com/user-attachments/assets/1d6eab4b-f19f-4d84-bdef-eb8e8663ff69)
+
+
 ## Result
+
+hence DSBSC signal is implemented and analysed using pyton
